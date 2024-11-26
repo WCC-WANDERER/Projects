@@ -1,17 +1,17 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\sut\\sem 4\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\player.ixx",
+        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\my projects\\projects\\arena_battle\\arena_battle\\player.ixx",
         "ProvidedModule": "Player",
         "ImportedModules": [
             "Chars"
         ],
         "ImportedHeaderUnits": [
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\iostream",
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\fstream",
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\sstream",
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\string",
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\filesystem"
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\iostream",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\fstream",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\sstream",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\string",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\filesystem"
         ]
     }
 }

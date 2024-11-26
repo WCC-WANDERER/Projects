@@ -1,19 +1,10 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\sut\\sem 4\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\armour.ixx",
+        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\my projects\\projects\\arena_battle\\arena_battle\\armour.ixx",
         "ProvidedModule": "Armour",
         "Includes": [],
         "ImportedModules": [],
-        "ImportedHeaderUnits": [
-            {
-                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\iostream",
-                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\SUT\\SEM 4\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\iostream_2D86B2BA07B190DD.ifc.dt"
-            },
-            {
-                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\string",
-                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\SUT\\SEM 4\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\string_93AE7BABBF4DF134.ifc.dt"
-            }
-        ]
+        "ImportedHeaderUnits": []
     }
 }

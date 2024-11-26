@@ -12,7 +12,6 @@
 #include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
-//#include "functions.h"
 
 import Player;
 import Entity;
