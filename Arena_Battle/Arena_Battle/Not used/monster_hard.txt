@@ -1,0 +1,8 @@
+land Lion 12 10 30
+land Tiger 15 9 30
+sky Owl 15 7 20
+sky Seagull 12 9 20
+sea Whale 10 12 40
+sea Shark 13 10 30
+boss Orca 50 15 70
+boss Elephant 40 30 100

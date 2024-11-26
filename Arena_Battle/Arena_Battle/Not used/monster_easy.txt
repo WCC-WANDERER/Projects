@@ -1,0 +1,4 @@
+land Cat 5 5 10
+sky Bee 7 3 10
+sea Clownfish 3 7 9
+boss Bear 15 10 30

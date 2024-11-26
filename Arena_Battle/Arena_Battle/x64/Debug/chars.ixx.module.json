@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Chars.ixx.obj",
+            "outputs": [
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Chars.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Chars",
+                    "source-path": "c:\\users\\cccsk\\onedrive\\desktop\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\chars.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Chars:base"
+                },
+                {
+                    "logical-name": "Chars:Swordsman"
+                },
+                {
+                    "logical-name": "Chars:Archer"
+                },
+                {
+                    "logical-name": "Chars:Mage"
+                }
+            ]
+        }
+    ]
+}

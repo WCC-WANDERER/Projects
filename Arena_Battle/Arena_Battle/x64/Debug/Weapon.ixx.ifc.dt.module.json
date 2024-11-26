@@ -1,0 +1,12 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\sut\\sem 4\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\weapon.ixx",
+        "ProvidedModule": "Weapon",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\iostream",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\string"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\gameMap.ixx.obj",
+            "outputs": [
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\gameMap.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "gameMap",
+                    "source-path": "c:\\users\\cccsk\\onedrive\\desktop\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\gamemap.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "gameMap:gameTile"
+                }
+            ]
+        }
+    ]
+}

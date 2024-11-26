@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\sstream_F44ZDNNGPF4685OU.obj",
+            "outputs": [
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\sstream_F44ZDNNGPF4685OU.module.json",
+                "x64\\Debug\\sstream_F44ZDNNGPF4685OU.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\sstream",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\sstream",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

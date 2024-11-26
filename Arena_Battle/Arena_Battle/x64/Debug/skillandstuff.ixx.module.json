@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\SkillandStuff.ixx.obj",
+            "outputs": [
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\SkillandStuff.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "SkillandStuff",
+                    "source-path": "c:\\users\\cccsk\\onedrive\\desktop\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\skillandstuff.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "iostream",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\iostream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "string",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\string",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

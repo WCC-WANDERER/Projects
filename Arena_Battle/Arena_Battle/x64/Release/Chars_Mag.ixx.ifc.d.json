@@ -1,0 +1,44 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\chars_mag.ixx",
+        "ProvidedModule": "Chars:Mage",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Chars:base",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\Chars_base.ixx.ifc"
+            },
+            {
+                "Name": "SkillandStuff",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\SkillandStuff.ixx.ifc"
+            },
+            {
+                "Name": "Entity",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\Entity.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\concepts",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\concepts_VG6NU34RLWPFCYJ5.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\filesystem",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\filesystem_QCXGJHZ001QOJCYK.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\ranges",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\ranges_65IB65OMN77UCNY3.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\vector",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\vector_1PA17YPPH0G6C383.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\string",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\string_7TXGTS7IWZIILE9E.ifc"
+            }
+        ]
+    }
+}

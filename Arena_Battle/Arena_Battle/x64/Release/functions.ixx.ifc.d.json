@@ -1,0 +1,64 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\functions.ixx",
+        "ProvidedModule": "functions",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "SkillandStuff",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\SkillandStuff.ixx.ifc"
+            },
+            {
+                "Name": "Monsters",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\Monsters.ixx.ifc"
+            },
+            {
+                "Name": "Monsters:base",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\Monsters_base.ixx.ifc"
+            },
+            {
+                "Name": "Monsters:boss",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\Monsters_boss.ixx.ifc"
+            },
+            {
+                "Name": "Monsters:land",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\Monsters_land.ixx.ifc"
+            },
+            {
+                "Name": "Monsters:sea",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\Monsters_sea.ixx.ifc"
+            },
+            {
+                "Name": "Monsters:sky",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\Monsters_sky.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\iostream",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\iostream_108L17NEQX0YR1QH.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\fstream",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\fstream_YQHRLV5WQ18X006W.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\vector",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\vector_1PA17YPPH0G6C383.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\memory",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\memory_9Z53TNE6V8AZ25TE.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\sstream",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\sstream_F44ZDNNGPF4685OU.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\string",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\string_7TXGTS7IWZIILE9E.ifc"
+            }
+        ]
+    }
+}

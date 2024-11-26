@@ -1,0 +1,64 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\player.ixx",
+        "ProvidedModule": "Player",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Chars",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Chars.ixx.ifc"
+            },
+            {
+                "Name": "Chars:Archer",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Chars_Arc.ixx.ifc"
+            },
+            {
+                "Name": "Chars:Mage",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Chars_Mag.ixx.ifc"
+            },
+            {
+                "Name": "Chars:Swordsman",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Chars_Swd.ixx.ifc"
+            },
+            {
+                "Name": "Chars:base",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Chars_base.ixx.ifc"
+            },
+            {
+                "Name": "Skill",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Skill.ixx.ifc"
+            },
+            {
+                "Name": "Weapon",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Weapon.ixx.ifc"
+            },
+            {
+                "Name": "Armour",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Armour.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\iostream",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\iostream_108L17NEQX0YR1QH.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\fstream",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\fstream_YQHRLV5WQ18X006W.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\sstream",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\sstream_F44ZDNNGPF4685OU.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\string",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\string_7TXGTS7IWZIILE9E.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\filesystem",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\filesystem_QCXGJHZ001QOJCYK.ifc"
+            }
+        ]
+    }
+}

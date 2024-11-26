@@ -1,0 +1,59 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\functions.ixx.obj",
+            "outputs": [
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\functions.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "functions",
+                    "source-path": "c:\\users\\cccsk\\onedrive\\desktop\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\functions.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "SkillandStuff"
+                },
+                {
+                    "logical-name": "Monsters"
+                },
+                {
+                    "logical-name": "iostream",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\iostream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "fstream",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\fstream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "vector",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "memory",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\memory",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "sstream",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\sstream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

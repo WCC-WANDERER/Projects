@@ -1,0 +1,16 @@
+Stage 1
+a 50 60 170
+Skill swordsman Ice Slash 20 0 0
+Skill swordsman Defence Buff 0 50 0
+Weapon swordsman Excellent Sword 20
+Armour swordsman Excellent Chainmail 10 20
+b 70 48 136
+Skill archer Magic Arrow 30 0 0
+Skill archer Attack Buff 40 0 0
+Weapon archer Excellent Bow 30
+Armour archer Excellent LeatherArmour 8 16
+c 90 36 112
+Skill mage Fire Ball 40 0 0
+Skill mage Attack Buff 50 0 0
+Weapon mage Excellent Wand 40
+Armour mage Excellent Robe 6 12

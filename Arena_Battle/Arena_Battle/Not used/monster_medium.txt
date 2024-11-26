@@ -1,0 +1,7 @@
+land Wolf 8 5 20
+land Puma 10 7 20
+sky Piegon 9 5 15
+sky Crow 10 4 15
+sea Turtle 4 10 30
+sea Dolphin 7 9 20
+boss Eagle 20 15 50

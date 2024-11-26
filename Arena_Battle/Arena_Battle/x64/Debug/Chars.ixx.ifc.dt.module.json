@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\sut\\sem 4\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\chars.ixx",
+        "ProvidedModule": "Chars",
+        "ImportedModules": [
+            "Chars:base",
+            "Chars:Swordsman",
+            "Chars:Archer",
+            "Chars:Mage"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

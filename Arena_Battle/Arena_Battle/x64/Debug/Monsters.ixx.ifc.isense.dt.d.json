@@ -1,0 +1,52 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\monsters.ixx",
+        "ProvidedModule": "Monsters",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Monsters:base",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Monsters_base.ixx.ifc.dt"
+            },
+            {
+                "Name": "Monsters:land",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Monsters_land.ixx.ifc.dt"
+            },
+            {
+                "Name": "Monsters:sky",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Monsters_sky.ixx.ifc.dt"
+            },
+            {
+                "Name": "Monsters:sea",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Monsters_sea.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\concepts",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\concepts_6411FDF015E412B4.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\filesystem",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\filesystem_4539452B0C4C28DE.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\iostream",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\iostream_40F4BCCA54C99B1D.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\ranges",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\ranges_AFAB8CA0D4DF114F.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\string",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\string_6C937E7A9717AD74.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\vector",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\vector_B77EB5B993178006.ifc.dt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\chars_war.ixx",
+        "ProvidedModule": "Chars:Warrior",
+        "ImportedModules": [
+            "Chars:base"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

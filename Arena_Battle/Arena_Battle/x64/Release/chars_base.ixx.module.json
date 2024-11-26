@@ -1,0 +1,50 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\Chars_base.ixx.obj",
+            "outputs": [
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\Chars_base.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Chars:base",
+                    "source-path": "c:\\users\\cccsk\\onedrive\\desktop\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\chars_base.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "SkillandStuff"
+                },
+                {
+                    "logical-name": "vector",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "filesystem",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\filesystem",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "ranges",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\ranges",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "concepts",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\concepts",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}
