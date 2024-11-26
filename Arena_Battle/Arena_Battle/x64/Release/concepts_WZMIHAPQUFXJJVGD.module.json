@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\concepts_WZMIHAPQUFXJJVGD.obj",
+            "outputs": [
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\concepts_WZMIHAPQUFXJJVGD.module.json",
+                "x64\\Release\\concepts_WZMIHAPQUFXJJVGD.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\concepts",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.41.34120\\include\\concepts",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

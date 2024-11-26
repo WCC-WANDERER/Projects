@@ -5,14 +5,14 @@
         {
             "primary-output": "x64\\Debug\\Monsters_sea.ixx.obj",
             "outputs": [
-                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\vc143.pdb",
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\x64\\Debug\\vc143.pdb",
                 "x64\\Debug\\",
-                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Monsters_sea.ixx.ifc"
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Monsters_sea.ixx.ifc"
             ],
             "provides": [
                 {
                     "logical-name": "Monsters:sea",
-                    "source-path": "c:\\users\\cccsk\\onedrive\\desktop\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\monsters_sea.ixx",
+                    "source-path": "c:\\users\\cccsk\\onedrive\\desktop\\my projects\\projects\\arena_battle\\arena_battle\\monsters_sea.ixx",
                     "is-interface": true
                 }
             ],
@@ -22,7 +22,7 @@
                 },
                 {
                     "logical-name": "string",
-                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\string",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\string",
                     "lookup-method": "include-angle",
                     "unique-on-source-path": true
                 }

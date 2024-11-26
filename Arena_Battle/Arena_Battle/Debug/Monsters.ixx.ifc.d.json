@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\my projects\\projects\\arena_battle\\arena_battle\\monsters.ixx",
+        "ProvidedModule": "Monsters",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Monsters:base",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Debug\\Monsters_base.ixx.ifc"
+            },
+            {
+                "Name": "Monsters:land",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Debug\\Monsters_land.ixx.ifc"
+            },
+            {
+                "Name": "Monsters:sky",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Debug\\Monsters_sky.ixx.ifc"
+            },
+            {
+                "Name": "Monsters:sea",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Debug\\Monsters_sea.ixx.ifc"
+            },
+            {
+                "Name": "Monsters:boss",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Debug\\Monsters_boss.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.41.34120\\include\\iostream",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Debug\\iostream_KTPLHOCEDX7YBZWE.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.41.34120\\include\\string",
+                "BMI": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Debug\\string_GT02E4T140807UCG.ifc"
+            }
+        ]
+    }
+}

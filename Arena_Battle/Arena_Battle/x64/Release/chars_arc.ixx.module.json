@@ -5,23 +5,20 @@
         {
             "primary-output": "x64\\Release\\Chars_Arc.ixx.obj",
             "outputs": [
-                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\vc143.pdb",
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\x64\\Release\\vc143.pdb",
                 "x64\\Release\\",
-                "C:\\Users\\cccsk\\OneDrive\\Desktop\\CP4\\008c2369-gr13-repo\\Project\\Arena_Battle\\Arena_Battle\\x64\\Release\\Chars_Arc.ixx.ifc"
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\x64\\Release\\Chars_Arc.ixx.ifc"
             ],
             "provides": [
                 {
                     "logical-name": "Chars:Archer",
-                    "source-path": "c:\\users\\cccsk\\onedrive\\desktop\\cp4\\008c2369-gr13-repo\\project\\arena_battle\\arena_battle\\chars_arc.ixx",
+                    "source-path": "c:\\users\\cccsk\\onedrive\\desktop\\my projects\\projects\\arena_battle\\arena_battle\\chars_arc.ixx",
                     "is-interface": true
                 }
             ],
             "requires": [
                 {
                     "logical-name": "Chars:base"
-                },
-                {
-                    "logical-name": "Entity"
                 }
             ]
         }

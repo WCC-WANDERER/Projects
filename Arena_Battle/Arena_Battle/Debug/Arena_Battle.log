@@ -1,553 +1,315 @@
-﻿  Chars.ixx
+﻿  Scanning sources for module dependencies...
   Chars_Arc.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'Chars'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(4,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(4,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(4,15): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(4,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(5,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(5,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(5,8): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(5,15): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(5,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(6,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(6,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(6,8): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(6,15): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(6,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(7,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(7,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(7,8): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(7,15): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars.ixx(7,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'Chars'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(2,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(3,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(3,8): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(3,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(5,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(5,30): error C2504: 'Characters': base class undefined
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(8,7): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(8,14): error C3646: 'name': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(8,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,14): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,14): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,2): error C2535: 'Archer::Archer(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(15,7): error C3668: 'Archer::atk': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(16,7): error C3668: 'Archer::def': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,140): error C2065: 'lvl': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,145): error C3867: 'Archer::atk': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,150): error C3867: 'Archer::def': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,155): error C2065: 'hp': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,159): error C2065: 's': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,162): error C2065: 'w': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,165): error C2065: 'a': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,174): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,129): error C2614: 'Archer': illegal member initialization: 'Characters' is not a base or member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Arc.ixx(12,169): error C2614: 'Archer': illegal member initialization: 'name' is not a base or member
+  Arena.ixx
+  gameTile.ixx
   Chars_base.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'Chars'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(2,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(5,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(5,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(5,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(7,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(7,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(7,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(7,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(8,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(8,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(8,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(8,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(9,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(9,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(9,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(9,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(10,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(10,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(10,8): error C2146: syntax error: missing ';' before identifier 'SkillandStuff'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(14,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(18,9): error C3646: 'skill': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(18,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(19,10): error C3646: 'weapon': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(19,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(20,10): error C3646: 'armour': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(20,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(24,84): error C2061: syntax error: identifier 'skills'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(30,3): error C2065: 'skill': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(30,11): error C2065: 's': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(31,3): error C2065: 'weapon': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(31,12): error C2065: 'w': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(32,3): error C2065: 'armour': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_base.ixx(32,12): error C2065: 'a': undeclared identifier
-  Chars_Mag.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'Chars'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(2,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(3,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(3,8): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(3,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(5,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(5,32): error C2504: 'Characters': base class undefined
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(8,7): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(8,14): error C3646: 'name': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(8,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,16): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,16): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,2): error C2535: 'Magician::Magician(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(15,7): error C3668: 'Magician::atk': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(16,7): error C3668: 'Magician::def': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,142): error C2065: 'lvl': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,147): error C3867: 'Magician::atk': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,152): error C3867: 'Magician::def': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,157): error C2065: 'hp': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,161): error C2065: 's': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,164): error C2065: 'w': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,167): error C2065: 'a': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,176): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,131): error C2614: 'Magician': illegal member initialization: 'Characters' is not a base or member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_Mag.ixx(12,171): error C2614: 'Magician': illegal member initialization: 'name' is not a base or member
-  Chars_War.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'Chars'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(2,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(3,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(3,8): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(3,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(5,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(5,31): error C2504: 'Characters': base class undefined
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(8,7): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(8,14): error C3646: 'name': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(8,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,15): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,15): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,2): error C2535: 'Warrior::Warrior(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(15,7): error C3668: 'Warrior::atk': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(16,7): error C3668: 'Warrior::def': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,141): error C2065: 'lvl': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,146): error C3867: 'Warrior::atk': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,151): error C3867: 'Warrior::def': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,156): error C2065: 'hp': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,160): error C2065: 's': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,163): error C2065: 'w': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,166): error C2065: 'a': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,175): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,130): error C2614: 'Warrior': illegal member initialization: 'Characters' is not a base or member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Chars_War.ixx(12,170): error C2614: 'Warrior': illegal member initialization: 'name' is not a base or member
-  functions.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'functions'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(3,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(3,8): error C2146: syntax error: missing ';' before identifier 'SkillandStuff'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(4,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(4,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(4,8): error C2146: syntax error: missing ';' before identifier 'Monsters'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(6,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(6,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(6,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(6,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(7,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(7,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(7,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(7,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(8,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(8,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(8,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(8,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(9,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(9,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(9,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(9,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(10,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(10,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(10,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(10,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,27): error C2039: 'vector': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,13): error C2182: 'LoadData': this use of 'void' is not valid
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,27): error C2065: 'vector': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,39): error C2039: 'unique_ptr': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,39): error C2065: 'unique_ptr': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,50): error C2065: 'Monsters': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,61): error C2065: 'easy': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,72): error C2039: 'vector': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,72): error C2065: 'vector': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,84): error C2039: 'unique_ptr': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,84): error C2065: 'unique_ptr': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,95): error C2065: 'Monsters': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(12,106): error C2065: 'medium': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,7): error C2039: 'vector': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,7): error C2065: 'vector': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,19): error C2039: 'unique_ptr': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,19): error C2065: 'unique_ptr': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,30): error C2065: 'Monsters': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,41): error C2065: 'hard': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,52): error C2039: 'vector': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,52): error C2065: 'vector': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,59): error C2065: 'skills': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,67): error C2065: 'skill': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,79): error C2039: 'vector': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,79): error C2065: 'vector': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,86): error C2065: 'weapons': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,95): error C2065: 'weapon': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,108): error C2039: 'vector': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,108): error C2065: 'vector': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,115): error C2065: 'armours': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,124): error C2065: 'armour': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(13,132): error C2143: syntax error: missing ';' before '{'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(15,7): error C2039: 'ifstream': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(15,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(15,16): error C2146: syntax error: missing ';' before identifier 'monster_easy'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(16,2): error C2059: syntax error: 'if'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(17,2): error C2143: syntax error: missing ';' before '{'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(17,2): error C2447: '{': missing function header (old-style formal list?)
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(46,2): error C2059: syntax error: 'else'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(47,8): error C2039: 'cerr': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(56,7): error C2039: 'ifstream': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(56,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(56,7): error C2086: 'int ifstream': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(56,16): error C2146: syntax error: missing ';' before identifier 'monster_medium'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(57,7): error C2039: 'ifstream': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(57,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(57,7): error C2086: 'int ifstream': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(57,16): error C2146: syntax error: missing ';' before identifier 'monster_hard'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(59,7): error C2039: 'ifstream': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(59,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(59,7): error C2086: 'int ifstream': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(59,16): error C2146: syntax error: missing ';' before identifier 'skill_list'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(60,7): error C2039: 'ifstream': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(60,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(60,7): error C2086: 'int ifstream': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(60,16): error C2146: syntax error: missing ';' before identifier 'weapon_list'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(61,7): error C2039: 'ifstream': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(61,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(61,7): error C2086: 'int ifstream': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(61,16): error C2146: syntax error: missing ';' before identifier 'armour_list'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(64,1): error C2059: syntax error: '}'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.ixx(64,1): error C2143: syntax error: missing ';' before '}'
+  gameMap.ixx
+  Chars_Swd.ixx
+  Armour.ixx
   Monsters.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(1,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(1,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(1,15): error C2146: syntax error: missing ';' before identifier 'Monsters'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(3,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(3,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(3,15): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(3,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(4,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(4,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(4,8): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(4,15): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(4,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(5,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(5,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(5,8): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(5,15): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(5,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(6,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(6,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(6,8): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(6,15): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(6,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(7,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(7,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(7,8): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(7,15): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters.ixx(7,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-  Main.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\concepts(12): warning STL4038: The contents of <concepts> are available only with C++20 or later.
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Main.cpp(11,10): error C1083: Cannot open include file: 'SFML/Window.hpp': No such file or directory
+  Entity.ixx
   Monsters_base.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_base.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_base.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_base.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'Monsters'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_base.ixx(2,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_base.ixx(4,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_base.ixx(4,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_base.ixx(4,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_base.ixx(6,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_base.ixx(6,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_base.ixx(6,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_base.ixx(6,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_base.ixx(11,1): error C3378: a declaration can be exported only from a module interface unit
+  Chars.ixx
+  Chars_Mag.ixx
   Monsters_boss.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'Monsters'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(2,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(3,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(3,8): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(3,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(5,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(5,36): error C2504: 'Monsters': base class undefined
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(8,7): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(8,14): error C3646: 'name': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(8,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(12,20): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(12,20): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(12,2): error C2535: 'BossMonsters::BossMonsters(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(15,7): error C3668: 'BossMonsters::atk': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(16,7): error C3668: 'BossMonsters::def': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(17,7): error C3668: 'BossMonsters::drop': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(12,94): error C3867: 'BossMonsters::atk': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(12,99): error C3867: 'BossMonsters::def': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(12,104): error C2065: 'hp': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(12,114): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(12,85): error C2614: 'BossMonsters': illegal member initialization: 'Monsters' is not a base or member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_boss.ixx(12,109): error C2614: 'BossMonsters': illegal member initialization: 'name' is not a base or member
   Monsters_land.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'Monsters'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(2,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(3,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(3,8): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(3,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(5,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(5,36): error C2504: 'Monsters': base class undefined
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(8,7): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(8,14): error C3646: 'name': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(8,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(12,20): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(12,20): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(12,2): error C2535: 'LandMonsters::LandMonsters(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(15,7): error C3668: 'LandMonsters::atk': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(16,7): error C3668: 'LandMonsters::def': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(17,7): error C3668: 'LandMonsters::drop': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(12,94): error C3867: 'LandMonsters::atk': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(12,99): error C3867: 'LandMonsters::def': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(12,104): error C2065: 'hp': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(12,114): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(12,85): error C2614: 'LandMonsters': illegal member initialization: 'Monsters' is not a base or member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_land.ixx(12,109): error C2614: 'LandMonsters': illegal member initialization: 'name' is not a base or member
   Monsters_sea.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'Monsters'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(2,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(3,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(3,8): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(3,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(5,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(5,35): error C2504: 'Monsters': base class undefined
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(8,7): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(8,14): error C3646: 'name': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(8,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(12,19): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(12,19): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(12,2): error C2535: 'SeaMonsters::SeaMonsters(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(15,7): error C3668: 'SeaMonsters::atk': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(16,7): error C3668: 'SeaMonsters::def': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(17,7): error C3668: 'SeaMonsters::drop': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(12,93): error C3867: 'SeaMonsters::atk': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(12,98): error C3867: 'SeaMonsters::def': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(12,103): error C2065: 'hp': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(12,113): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(12,84): error C2614: 'SeaMonsters': illegal member initialization: 'Monsters' is not a base or member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sea.ixx(12,108): error C2614: 'SeaMonsters': illegal member initialization: 'name' is not a base or member
   Monsters_sky.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'Monsters'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(2,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(3,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(3,8): error C2059: syntax error: ':'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(3,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(5,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(5,35): error C2504: 'Monsters': base class undefined
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(8,7): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(8,14): error C3646: 'name': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(8,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(12,19): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(12,19): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(12,2): error C2535: 'SkyMonsters::SkyMonsters(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(15,7): error C3668: 'SkyMonsters::atk': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(16,7): error C3668: 'SkyMonsters::def': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(17,7): error C3668: 'SkyMonsters::drop': method with override specifier 'override' did not override any base class methods
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(12,93): error C3867: 'SkyMonsters::atk': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(12,98): error C3867: 'SkyMonsters::def': non-standard syntax; use '&' to create a pointer to member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(12,103): error C2065: 'hp': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(12,113): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(12,84): error C2614: 'SkyMonsters': illegal member initialization: 'Monsters' is not a base or member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Monsters_sky.ixx(12,108): error C2614: 'SkyMonsters': illegal member initialization: 'name' is not a base or member
+  Weapon.ixx
+  Skill.ixx
   Player.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'Player'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(3,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(3,8): error C2146: syntax error: missing ';' before identifier 'Chars'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(4,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(4,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(4,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(4,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(5,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(5,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(5,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(5,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(8,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(11,10): error C3646: 'warrior': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(11,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(12,9): error C3646: 'archer': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(12,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(13,11): error C3646: 'magician': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(13,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(18,9): error C2061: syntax error: identifier 'Warrior'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(18,2): error C2535: 'Player::Player(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(23,9): error C2061: syntax error: identifier 'Warrior'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(23,2): error C2535: 'Player::Player(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(19,3): error C2065: 'warrior': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(19,13): error C2065: 'war': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(20,3): error C2065: 'archer': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(20,12): error C2065: 'arc': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(21,3): error C2065: 'magician': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(21,14): error C2065: 'mag': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(24,3): error C2065: 'warrior': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(24,13): error C2065: 'war': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(25,3): error C2065: 'archer': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(25,12): error C2065: 'arc': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(26,3): error C2065: 'magician': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(26,14): error C2065: 'mag': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(27,17): error C2065: 'pts': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(33,8): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(33,8): error C2065: 'string': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(33,15): error C2146: syntax error: missing ';' before identifier 'name'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(33,15): error C2065: 'name': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(34,8): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(34,8): error C2065: 'string': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(34,15): error C2146: syntax error: missing ';' before identifier 'command'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(34,15): error C2065: 'command': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(35,3): error C2065: 'skills': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(35,10): error C2146: syntax error: missing ';' before identifier 'skill'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(35,10): error C3861: 'skill': identifier not found
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(36,3): error C2065: 'weapons': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(36,11): error C2146: syntax error: missing ';' before identifier 'weapon'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(36,11): error C3861: 'weapon': identifier not found
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(37,3): error C2065: 'armours': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(37,11): error C2146: syntax error: missing ';' before identifier 'armour'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(37,11): error C3861: 'armour': identifier not found
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(41,8): error C2039: 'cout': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(41,8): error C2065: 'cout': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(42,8): error C2039: 'cout': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(42,8): error C2065: 'cout': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(43,8): error C2039: 'cout': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(43,8): error C2065: 'cout': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(44,8): error C2039: 'cout': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(44,8): error C2065: 'cout': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(46,8): error C2039: 'cout': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(46,8): error C2065: 'cout': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(47,8): error C2039: 'cout': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(47,8): error C2065: 'cout': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(48,8): error C2039: 'cin': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(48,8): error C2065: 'cin': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(49,8): error C2039: 'getline': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(49,21): error C2039: 'cin': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(49,21): error C2065: 'cin': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(49,26): error C2065: 'name': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(49,8): error C3861: 'getline': identifier not found
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(51,8): error C2039: 'cout': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(51,8): error C2065: 'cout': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(52,8): error C2039: 'cout': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(52,8): error C2065: 'cout': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(53,8): error C2039: 'cout': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(53,8): error C2065: 'cout': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(54,8): error C2039: 'getline': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(54,21): error C2039: 'cin': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(54,21): error C2065: 'cin': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(54,26): error C2065: 'command': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(54,8): error C3861: 'getline': identifier not found
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(56,7): error C2065: 'command': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(58,4): error C2065: 'Warrior': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(58,12): error C2146: syntax error: missing ';' before identifier 'w'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(58,14): error C2065: 'name': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(58,38): error C2065: 'skill': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(58,45): error C2065: 'weapon': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(58,53): error C2065: 'armour': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(58,12): error C3861: 'w': identifier not found
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(59,4): error C2065: 'warrior': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(59,14): error C2065: 'w': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(65,4): error C2065: 'Warrior': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(65,12): error C2146: syntax error: missing ';' before identifier 'w'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(65,14): error C2065: 'name': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(65,48): error C2065: 'skill': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(65,55): error C2065: 'weapon': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(65,63): error C2065: 'armour': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(65,12): error C3861: 'w': identifier not found
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(66,4): error C2065: 'warrior': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(66,14): error C2065: 'w': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(69,8): error C2039: 'cout': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(69,8): error C2065: 'cout': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(70,8): error C2039: 'cout': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(70,8): error C2065: 'cout': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(71,8): error C2039: 'getline': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Player.ixx(71,8): error C1003: error count exceeds 100; stopping compilation
-  SkillandStuff.ixx
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(2,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(2,15): error C2146: syntax error: missing ';' before identifier 'SkillandStuff'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(4,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(4,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(4,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(5,8): error C2143: syntax error: missing ';' before '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(5,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(5,1): error C2086: 'int import': redefinition
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(5,8): error C2059: syntax error: '<'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(8,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(11,7): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(11,14): error C3646: 'name': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(11,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(19,14): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(19,14): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(19,2): error C2535: 'skills::skills(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(20,14): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(20,14): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(20,2): error C2535: 'skills::skills(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(19,31): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(19,26): error C2614: 'skills': illegal member initialization: 'name' is not a base or member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(20,98): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(20,108): error C2065: 'lvl': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(20,124): error C2065: 'atk': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(20,140): error C2065: 'def': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(20,155): error C2065: 'hp': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(20,93): error C2614: 'skills': illegal member initialization: 'name' is not a base or member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(26,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(29,7): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(29,14): error C3646: 'name': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(29,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(34,15): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(34,15): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(34,2): error C2535: 'weapons::weapons(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(35,15): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(35,15): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(35,2): error C2535: 'weapons::weapons(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(34,32): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(34,27): error C2614: 'weapons': illegal member initialization: 'name' is not a base or member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(35,50): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(35,64): error C2065: 'atk': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(35,45): error C2614: 'weapons': illegal member initialization: 'name' is not a base or member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(41,1): error C3378: a declaration can be exported only from a module interface unit
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(44,7): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(44,14): error C3646: 'name': unknown override specifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(44,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(50,15): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(50,15): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(50,2): error C2535: 'armours::armours(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(51,15): error C2039: 'string': is not a member of 'std'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(51,15): error C2061: syntax error: identifier 'string'
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(51,2): error C2535: 'armours::armours(void)': member function already defined or declared
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(50,32): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(50,27): error C2614: 'armours': illegal member initialization: 'name' is not a base or member
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(51,67): error C2065: 'n': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(51,81): error C2065: 'def': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(51,96): error C2065: 'hp': undeclared identifier
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\SkillandStuff.ixx(51,62): error C2614: 'armours': illegal member initialization: 'name' is not a base or member
+  UserInterface.ixx
+  iostream
+  concepts
+  sstream
+  ranges
+  vector
+  filesystem
+  string
+  fstream
+  Compiling...
+  string
+  iostream
+  vector
+  concepts
+  filesystem
+  gameTile.ixx
+  fstream
+  Entity.ixx
+  sstream
+  ranges
+  Armour.ixx
+  gameMap.ixx
+  Monsters_base.ixx
+  Weapon.ixx
+  Skill.ixx
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         ]
+  (compiling source file 'gameMap.ixx')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56):
+      the template instantiation context (the oldest one first) is
+          C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(77,37):
+          see reference to function template instantiation 'std::unique_ptr<gameTile,std::default_delete<gameTile>> std::make_unique<gameTile,const char(&)[16],int,int,bool,bool,0>(const char (&)[16],int &&,int &&,bool &&,bool &&)' being compiled
+  
+  Monsters_land.ixx
+  Monsters_sky.ixx
+  Monsters_sea.ixx
+  Monsters_boss.ixx
+  Chars_base.ixx
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars_base.ixx(114,14): warning C4018: '<=': signed/unsigned mismatch
+  Monsters.ixx
+  Chars_Swd.ixx
+  Chars_Mag.ixx
+  Chars_Arc.ixx
+  Chars.ixx
+  Player.ixx
+  Arena.ixx
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(724,16): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(726,16): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(728,16): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(741,20): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  UserInterface.ixx
+  functions.cpp
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         ]
+  Main.cpp
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Main.cpp(33,54): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Main.cpp(33,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56):
+      the template instantiation context (the oldest one first) is
+          C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(77,37):
+          see reference to function template instantiation 'std::unique_ptr<gameTile,std::default_delete<gameTile>> std::make_unique<gameTile,const char(&)[16],int,int,bool,bool,0>(const char (&)[16],int &&,int &&,bool &&,bool &&)' being compiled
+  
   Generating Code...
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Player.ixx(46,1): warning C4715: 'Player::getCharacter': not all control paths return a value
+functions.obj : error LNK2019: unresolved external symbol "public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Scan::Scancode)" (?isKeyPressed@Keyboard@sf@@SA_NW4Scancode@Scan@12@@Z) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Scan::Scancode)" (?isKeyPressed@Keyboard@sf@@SA_NW4Scancode@Scan@12@@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Transformable::setPosition(float,float)" (?setPosition@Transformable@sf@@QAEXMM@Z) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall sf::Transformable::setPosition(float,float)" (?setPosition@Transformable@sf@@QAEXMM@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: class sf::Vector2<float> const & __thiscall sf::Transformable::getPosition(void)const " (?getPosition@Transformable@sf@@QBEABV?$Vector2@M@2@XZ) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: class sf::Vector2<float> const & __thiscall sf::Transformable::getPosition(void)const " (?getPosition@Transformable@sf@@QBEABV?$Vector2@M@2@XZ)
+functions.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Transformable::move(float,float)" (?move@Transformable@sf@@QAEXMM@Z) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall sf::Transformable::move(float,float)" (?move@Transformable@sf@@QAEXMM@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: bool __thiscall sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (?loadFromFile@Texture@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$Rect@H@2@@Z) referenced in function "void __cdecl set_texture(class sf::Texture &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?set_texture@@YAXAAVTexture@sf@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: bool __thiscall sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (?loadFromFile@Texture@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$Rect@H@2@@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Texture::setSmooth(bool)" (?setSmooth@Texture@sf@@QAEX_N@Z) referenced in function "void __cdecl set_texture(class sf::Texture &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?set_texture@@YAXAAVTexture@sf@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall sf::Texture::setSmooth(bool)" (?setSmooth@Texture@sf@@QAEX_N@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::View::setCenter(float,float)" (?setCenter@View@sf@@QAEXMM@Z) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall sf::View::setCenter(float,float)" (?setCenter@View@sf@@QAEXMM@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::View::setCenter(class sf::Vector2<float> const &)" (?setCenter@View@sf@@QAEXABV?$Vector2@M@2@@Z) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall sf::View::setCenter(class sf::Vector2<float> const &)" (?setCenter@View@sf@@QAEXABV?$Vector2@M@2@@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::View::setSize(class sf::Vector2<float> const &)" (?setSize@View@sf@@QAEXABV?$Vector2@M@2@@Z) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall sf::View::setSize(class sf::Vector2<float> const &)" (?setSize@View@sf@@QAEXABV?$Vector2@M@2@@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: class sf::Vector2<float> const & __thiscall sf::View::getCenter(void)const " (?getCenter@View@sf@@QBEABV?$Vector2@M@2@XZ) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: class sf::Vector2<float> const & __thiscall sf::View::getCenter(void)const " (?getCenter@View@sf@@QBEABV?$Vector2@M@2@XZ)
+functions.obj : error LNK2019: unresolved external symbol "public: class sf::Vector2<float> const & __thiscall sf::View::getSize(void)const " (?getSize@View@sf@@QBEABV?$Vector2@M@2@XZ) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: class sf::Vector2<float> const & __thiscall sf::View::getSize(void)const " (?getSize@View@sf@@QBEABV?$Vector2@M@2@XZ)
+functions.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::View::move(float,float)" (?move@View@sf@@QAEXMM@Z) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall sf::View::move(float,float)" (?move@View@sf@@QAEXMM@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::RenderTarget::setView(class sf::View const &)" (?setView@RenderTarget@sf@@QAEXABVView@2@@Z) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall sf::RenderTarget::setView(class sf::View const &)" (?setView@RenderTarget@sf@@QAEXABVView@2@@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Sprite::setTexture(class sf::Texture const &,bool)" (?setTexture@Sprite@sf@@QAEXABVTexture@2@_N@Z) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall sf::Sprite::setTexture(class sf::Texture const &,bool)" (?setTexture@Sprite@sf@@QAEXABVTexture@2@_N@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: class sf::Rect<float> __thiscall sf::Sprite::getGlobalBounds(void)const " (?getGlobalBounds@Sprite@sf@@QBE?AV?$Rect@M@2@XZ) referenced in function "void __cdecl EventHandling(class sf::RenderWindow &,class sf::View &,class sf::Sprite &,class sf::Texture &,class sf::Texture &,class sf::Sprite &,class std::vector<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> >,class std::allocator<class std::unique_ptr<class gameTile,struct std::default_delete<class gameTile> > > > &,bool &)" (?EventHandling@@YAXAAVRenderWindow@sf@@AAVView@2@AAVSprite@2@AAVTexture@2@32AAV?$vector@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@V?$allocator@V?$unique_ptr@VgameTile@@U?$default_delete@VgameTile@@@std@@@std@@@2@@std@@AA_N@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: class sf::Rect<float> __thiscall sf::Sprite::getGlobalBounds(void)const " (?getGlobalBounds@Sprite@sf@@QBE?AV?$Rect@M@2@XZ)
+functions.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::SoundSource::setVolume(float)" (?setVolume@SoundSource@sf@@QAEXM@Z) referenced in function "void __cdecl set_music(class sf::Music &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?set_music@@YAXAAVMusic@sf@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall sf::SoundSource::setVolume(float)" (?setVolume@SoundSource@sf@@QAEXM@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::SoundStream::setLoop(bool)" (?setLoop@SoundStream@sf@@QAEX_N@Z) referenced in function "void __cdecl set_music(class sf::Music &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?set_music@@YAXAAVMusic@sf@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: void __thiscall sf::SoundStream::setLoop(bool)" (?setLoop@SoundStream@sf@@QAEX_N@Z)
+functions.obj : error LNK2019: unresolved external symbol "public: bool __thiscall sf::Music::openFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?openFromFile@Music@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "void __cdecl set_music(class sf::Music &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?set_music@@YAXAAVMusic@sf@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Main.obj : error LNK2001: unresolved external symbol "public: bool __thiscall sf::Music::openFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?openFromFile@Music@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Main.obj : error LNK2019: unresolved external symbol "public: float __thiscall sf::Time::asSeconds(void)const " (?asSeconds@Time@sf@@QBEMXZ) referenced in function "public: void __thiscall Arena::collision_result(class sf::Sprite &,class sf::RenderWindow &)" (?collision_result@Arena@@QAEXAAVSprite@sf@@AAVRenderWindow@3@@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "class sf::Time __cdecl sf::seconds(float)" (?seconds@sf@@YA?AVTime@1@M@Z) referenced in function "public: void __thiscall Arena::collision_result(class sf::Sprite &,class sf::RenderWindow &)" (?collision_result@Arena@@QAEXAAVSprite@sf@@AAVRenderWindow@3@@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::Clock::Clock(void)" (??0Clock@sf@@QAE@XZ) referenced in function "public: __thiscall Arena::Arena(void)" (??0Arena@@QAE@XZ::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: class sf::Time __thiscall sf::Clock::getElapsedTime(void)const " (?getElapsedTime@Clock@sf@@QBE?AVTime@2@XZ) referenced in function "public: void __thiscall Arena::collision_result(class sf::Sprite &,class sf::RenderWindow &)" (?collision_result@Arena@@QAEXAAVSprite@sf@@AAVRenderWindow@3@@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: class sf::Time __thiscall sf::Clock::restart(void)" (?restart@Clock@sf@@QAE?AVTime@2@XZ) referenced in function "public: void __thiscall Arena::EventHandling(class sf::RenderWindow &,class sf::Event &,class Player &,class gameMap &)" (?EventHandling@Arena@@QAEXAAVRenderWindow@sf@@AAVEvent@3@AAVPlayer@@AAVgameMap@@@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "void __cdecl sf::sleep(class sf::Time)" (?sleep@sf@@YAXVTime@1@@Z) referenced in function "public: void __thiscall Arena::collision_result(class sf::Sprite &,class sf::RenderWindow &)" (?collision_result@Arena@@QAEXAAVSprite@sf@@AAVRenderWindow@3@@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::String::String(unsigned int)" (??0String@sf@@QAE@I@Z) referenced in function "public: void __thiscall UserInterface::UpdateName<class sf::Event>(class sf::Event &)" (??$UpdateName@VEvent@sf@@@UserInterface@@QAEXAAVEvent@sf@@@Z::<!UserInterface>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::String::String(char const *,class std::locale const &)" (??0String@sf@@QAE@PBDABVlocale@std@@@Z) referenced in function "public: void __thiscall Arena::update_message<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,char const *,char const *,char const *,char const *>(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,char const *,char const *,char const *,char const *)" (??$update_message@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PBDPBDPBDPBD@Arena@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PBD111@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (??0String@sf@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVlocale@3@@Z) referenced in function "public: void __thiscall Arena::update_char_name<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (??$update_char_name@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Arena@@QAEXHAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::String::operator class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >(void)const " (??BString@sf@@QBE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function "public: void __thiscall UserInterface::UpdateName<class sf::Event>(class sf::Event &)" (??$UpdateName@VEvent@sf@@@UserInterface@@QAEXAAVEvent@sf@@@Z::<!UserInterface>)
+Main.obj : error LNK2019: unresolved external symbol "bool __cdecl sf::operator==(class sf::String const &,class sf::String const &)" (??8sf@@YA_NABVString@0@0@Z) referenced in function "public: void __thiscall Arena::char_selection(class sf::Event &)" (?char_selection@Arena@@QAEXAAVEvent@sf@@@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "bool __cdecl sf::operator!=(class sf::String const &,class sf::String const &)" (??9sf@@YA_NABVString@0@0@Z) referenced in function "public: void __thiscall Arena::char_selection(class sf::Event &)" (?char_selection@Arena@@QAEXAAVEvent@sf@@@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "class sf::String __cdecl sf::operator+(class sf::String const &,class sf::String const &)" (??Hsf@@YA?AVString@0@ABV10@0@Z) referenced in function "public: void __thiscall Arena::collision_result(class sf::Sprite &,class sf::RenderWindow &)" (?collision_result@Arena@@QAEXAAVSprite@sf@@AAVRenderWindow@3@@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::WindowBase const &)" (?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@ABVWindowBase@2@@Z) referenced in function "public: void __thiscall UserInterface::EventHandling(class sf::RenderWindow &,class sf::Event &,class Player &,class gameMap &,class Arena &)" (?EventHandling@UserInterface@@QAEXAAVRenderWindow@sf@@AAVEvent@3@AAVPlayer@@AAVgameMap@@AAVArena@@@Z::<!UserInterface>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (??0VideoMode@sf@@QAE@III@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "public: bool __thiscall sf::WindowBase::isOpen(void)const " (?isOpen@WindowBase@sf@@QBE_NXZ) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "public: bool __thiscall sf::WindowBase::pollEvent(class sf::Event &)" (?pollEvent@WindowBase@sf@@QAE_NAAVEvent@2@@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::WindowBase::setMouseCursorVisible(bool)" (?setMouseCursorVisible@WindowBase@sf@@QAEX_N@Z) referenced in function "public: void __thiscall UserInterface::EventHandling(class sf::RenderWindow &,class sf::Event &,class Player &,class gameMap &,class Arena &)" (?EventHandling@UserInterface@@QAEXAAVRenderWindow@sf@@AAVEvent@3@AAVPlayer@@AAVgameMap@@AAVArena@@@Z::<!UserInterface>)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::WindowBase::setKeyRepeatEnabled(bool)" (?setKeyRepeatEnabled@WindowBase@sf@@QAEX_N@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "public: virtual void __thiscall sf::Window::close(void)" (?close@Window@sf@@UAEXXZ) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Window::setVerticalSyncEnabled(bool)" (?setVerticalSyncEnabled@Window@sf@@QAEX_N@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Window::display(void)" (?display@Window@sf@@QAEXXZ) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "class sf::Transform & __cdecl sf::operator*=(class sf::Transform &,class sf::Transform const &)" (??Xsf@@YAAAVTransform@0@AAV10@ABV10@@Z) referenced in function "protected: virtual void __thiscall Entity::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Entity@@MBEXAAVRenderTarget@sf@@VRenderStates@3@@Z::<!Entity>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::Transformable::Transformable(void)" (??0Transformable@sf@@QAE@XZ) referenced in function "public: __thiscall Entity::Entity(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0Entity@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z::<!Entity>)
+Main.obj : error LNK2019: unresolved external symbol "public: virtual __thiscall sf::Transformable::~Transformable(void)" (??1Transformable@sf@@UAE@XZ) referenced in function __unwindfunclet$??0Entity@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z::<!Entity>$1
+Arena.ixx.obj : error LNK2001: unresolved external symbol "public: virtual __thiscall sf::Transformable::~Transformable(void)" (??1Transformable@sf@@UAE@XZ)
+Entity.ixx.obj : error LNK2001: unresolved external symbol "public: virtual __thiscall sf::Transformable::~Transformable(void)" (??1Transformable@sf@@UAE@XZ)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Transformable::setScale(float,float)" (?setScale@Transformable@sf@@QAEXMM@Z) referenced in function "public: __thiscall Archer::Archer(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,int)" (??0Archer@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HHH@Z::<!Chars>)
+Main.obj : error LNK2019: unresolved external symbol "public: class sf::Transform const & __thiscall sf::Transformable::getTransform(void)const " (?getTransform@Transformable@sf@@QBEABVTransform@2@XZ) referenced in function "protected: virtual void __thiscall Entity::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Entity@@MBEXAAVRenderTarget@sf@@VRenderStates@3@@Z::<!Entity>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (??0Color@sf@@QAE@EEEE@Z) referenced in function "public: void __thiscall Arena::init_text_shape(void)" (?init_text_shape@Arena@@QAEXXZ::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: virtual __thiscall sf::Shape::~Shape(void)" (??1Shape@sf@@UAE@XZ) referenced in function "public: virtual __thiscall sf::RectangleShape::~RectangleShape(void)" (??1RectangleShape@sf@@UAE@XZ)
+Arena.ixx.obj : error LNK2001: unresolved external symbol "public: virtual __thiscall sf::Shape::~Shape(void)" (??1Shape@sf@@UAE@XZ)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Shape::setFillColor(class sf::Color const &)" (?setFillColor@Shape@sf@@QAEXABVColor@2@@Z) referenced in function "public: void __thiscall Arena::init_text_shape(void)" (?init_text_shape@Arena@@QAEXXZ::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Shape::setOutlineColor(class sf::Color const &)" (?setOutlineColor@Shape@sf@@QAEXABVColor@2@@Z) referenced in function "public: void __thiscall Arena::init_text_shape(void)" (?init_text_shape@Arena@@QAEXXZ::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Shape::setOutlineThickness(float)" (?setOutlineThickness@Shape@sf@@QAEXM@Z) referenced in function "public: void __thiscall Arena::init_text_shape(void)" (?init_text_shape@Arena@@QAEXXZ::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: class sf::Rect<float> __thiscall sf::Shape::getGlobalBounds(void)const " (?getGlobalBounds@Shape@sf@@QBE?AV?$Rect@M@2@XZ) referenced in function "public: void __thiscall UserInterface::EventHandling(class sf::RenderWindow &,class sf::Event &,class Player &,class gameMap &,class Arena &)" (?EventHandling@UserInterface@@QAEXAAVRenderWindow@sf@@AAVEvent@3@AAVPlayer@@AAVgameMap@@AAVArena@@@Z::<!UserInterface>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::Texture::Texture(void)" (??0Texture@sf@@QAE@XZ) referenced in function "public: __thiscall Archer::Archer(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,int)" (??0Archer@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HHH@Z::<!Chars>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::Texture::~Texture(void)" (??1Texture@sf@@QAE@XZ) referenced in function __unwindfunclet$??0Archer@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HHH@Z::<!Chars>$3
+Arena.ixx.obj : error LNK2001: unresolved external symbol "public: __thiscall sf::Texture::~Texture(void)" (??1Texture@sf@@QAE@XZ)
+Entity.ixx.obj : error LNK2001: unresolved external symbol "public: __thiscall sf::Texture::~Texture(void)" (??1Texture@sf@@QAE@XZ)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::Font::Font(void)" (??0Font@sf@@QAE@XZ) referenced in function "public: __thiscall Arena::Arena(void)" (??0Arena@@QAE@XZ::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::Font::~Font(void)" (??1Font@sf@@QAE@XZ) referenced in function __unwindfunclet$??0Arena@@QAE@XZ::<!Arena>$1
+Arena.ixx.obj : error LNK2001: unresolved external symbol "public: __thiscall sf::Font::~Font(void)" (??1Font@sf@@QAE@XZ)
+Main.obj : error LNK2019: unresolved external symbol "public: bool __thiscall sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadFromFile@Font@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "public: void __thiscall gameMap::EventHandling(class sf::RenderWindow &)" (?EventHandling@gameMap@@QAEXAAVRenderWindow@sf@@@Z::<!gameMap>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (??0RectangleShape@sf@@QAE@ABV?$Vector2@M@1@@Z) referenced in function "public: __thiscall Arena::Arena(void)" (??0Arena@@QAE@XZ::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (?setSize@RectangleShape@sf@@QAEXABV?$Vector2@M@2@@Z) referenced in function "public: void __thiscall Arena::init_text_shape(void)" (?init_text_shape@Arena@@QAEXXZ::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::View::View(void)" (??0View@sf@@QAE@XZ) referenced in function "public: __thiscall gameMap::gameMap(float,float)" (??0gameMap@@QAE@MM@Z::<!gameMap>)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::RenderTarget::clear(class sf::Color const &)" (?clear@RenderTarget@sf@@QAEXABVColor@2@@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "public: class sf::Vector2<float> __thiscall sf::RenderTarget::mapPixelToCoords(class sf::Vector2<int> const &)const " (?mapPixelToCoords@RenderTarget@sf@@QBE?AV?$Vector2@M@2@ABV?$Vector2@H@2@@Z) referenced in function "public: void __thiscall UserInterface::EventHandling(class sf::RenderWindow &,class sf::Event &,class Player &,class gameMap &,class Arena &)" (?EventHandling@UserInterface@@QAEXAAVRenderWindow@sf@@AAVEvent@3@AAVPlayer@@AAVgameMap@@AAVArena@@@Z::<!UserInterface>)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z) referenced in function "public: void __thiscall Arena::collision_result(class sf::Sprite &,class sf::RenderWindow &)" (?collision_result@Arena@@QAEXAAVSprite@sf@@AAVRenderWindow@3@@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (??0RenderWindow@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (??1RenderWindow@sf@@UAE@XZ) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::Sprite::Sprite(void)" (??0Sprite@sf@@QAE@XZ) referenced in function "public: __thiscall Archer::Archer(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,int)" (??0Archer@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HHH@Z::<!Chars>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::Text::Text(void)" (??0Text@sf@@QAE@XZ) referenced in function "public: __thiscall Arena::Arena(void)" (??0Arena@@QAE@XZ::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Text::setString(class sf::String const &)" (?setString@Text@sf@@QAEXABVString@2@@Z) referenced in function "public: void __thiscall Arena::update_char_name<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (??$update_char_name@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Arena@@QAEXHAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Text::setFont(class sf::Font const &)" (?setFont@Text@sf@@QAEXABVFont@2@@Z) referenced in function "public: void __thiscall gameMap::EventHandling(class sf::RenderWindow &)" (?EventHandling@gameMap@@QAEXAAVRenderWindow@sf@@@Z::<!gameMap>)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Text::setCharacterSize(unsigned int)" (?setCharacterSize@Text@sf@@QAEXI@Z) referenced in function "public: void __thiscall gameMap::EventHandling(class sf::RenderWindow &)" (?EventHandling@gameMap@@QAEXAAVRenderWindow@sf@@@Z::<!gameMap>)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Text::setStyle(unsigned int)" (?setStyle@Text@sf@@QAEXI@Z) referenced in function "public: void __thiscall gameMap::EventHandling(class sf::RenderWindow &)" (?EventHandling@gameMap@@QAEXAAVRenderWindow@sf@@@Z::<!gameMap>)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::Text::setFillColor(class sf::Color const &)" (?setFillColor@Text@sf@@QAEXABVColor@2@@Z) referenced in function "public: bool __thiscall UserInterface::CreateTeam(class sf::RenderWindow &)" (?CreateTeam@UserInterface@@QAE_NAAVRenderWindow@sf@@@Z::<!UserInterface>)
+Main.obj : error LNK2019: unresolved external symbol "public: class sf::String const & __thiscall sf::Text::getString(void)const " (?getString@Text@sf@@QBEABVString@2@XZ) referenced in function "public: void __thiscall Arena::char_selection(class sf::Event &)" (?char_selection@Arena@@QAEXAAVEvent@sf@@@Z::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: class sf::Rect<float> __thiscall sf::Text::getGlobalBounds(void)const " (?getGlobalBounds@Text@sf@@QBE?AV?$Rect@M@2@XZ) referenced in function "public: void __thiscall gameMap::EventHandling(class sf::RenderWindow &)" (?EventHandling@gameMap@@QAEXAAVRenderWindow@sf@@@Z::<!gameMap>)
+Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall sf::SoundStream::setPlayingOffset(class sf::Time)" (?setPlayingOffset@SoundStream@sf@@QAEXVTime@2@@Z) referenced in function "public: void __thiscall UserInterface::playMusic(void)" (?playMusic@UserInterface@@QAEXXZ::<!UserInterface>)
+Main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::Music::Music(void)" (??0Music@sf@@QAE@XZ) referenced in function "public: __thiscall Arena::Arena(void)" (??0Arena@@QAE@XZ::<!Arena>)
+Main.obj : error LNK2019: unresolved external symbol "public: virtual __thiscall sf::Music::~Music(void)" (??1Music@sf@@UAE@XZ) referenced in function __unwindfunclet$??0Arena@@QAE@XZ::<!Arena>$19
+Arena.ixx.obj : error LNK2001: unresolved external symbol "public: virtual __thiscall sf::Music::~Music(void)" (??1Music@sf@@UAE@XZ)
+Main.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+Main.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Black" (?Black@Color@sf@@2V12@B)
+Main.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::White" (?White@Color@sf@@2V12@B)
+Main.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Red" (?Red@Color@sf@@2V12@B)
+Main.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Green" (?Green@Color@sf@@2V12@B)
+Main.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Blue" (?Blue@Color@sf@@2V12@B)
+Main.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Yellow" (?Yellow@Color@sf@@2V12@B)
+Main.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Magenta" (?Magenta@Color@sf@@2V12@B)
+C:\Users\cccsk\OneDrive\Desktop\SUT\SEM 4\CP4\Lab & Project\SFML-2.6.1-windows-vc17-64-bit\SFML-2.6.1\lib\sfml-main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\cccsk\OneDrive\Desktop\SUT\SEM 4\CP4\Lab & Project\SFML-2.6.1-windows-vc17-64-bit\SFML-2.6.1\lib\sfml-graphics-s-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\cccsk\OneDrive\Desktop\SUT\SEM 4\CP4\Lab & Project\SFML-2.6.1-windows-vc17-64-bit\SFML-2.6.1\lib\sfml-window-s-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\cccsk\OneDrive\Desktop\SUT\SEM 4\CP4\Lab & Project\SFML-2.6.1-windows-vc17-64-bit\SFML-2.6.1\lib\sfml-audio-s-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\cccsk\OneDrive\Desktop\SUT\SEM 4\CP4\Lab & Project\SFML-2.6.1-windows-vc17-64-bit\SFML-2.6.1\lib\sfml-network-s-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\cccsk\OneDrive\Desktop\SUT\SEM 4\CP4\Lab & Project\SFML-2.6.1-windows-vc17-64-bit\SFML-2.6.1\lib\sfml-system-s-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Debug\Arena_Battle.exe : fatal error LNK1120: 84 unresolved externals

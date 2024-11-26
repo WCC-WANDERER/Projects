@@ -1,160 +1,199 @@
 ﻿  Scanning sources for module dependencies...
-  Armour.ixx
-  Monsters.ixx
-  Chars_Mag.ixx
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars_Mag.ixx(3,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars_Mag.ixx(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-  Arena.ixx
-  Chars_Arc.ixx
   Chars_base.ixx
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars_Arc.ixx(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars_Arc.ixx(3,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Chars_Arc.ixx
   Chars.ixx
-  Monsters_base.ixx
-  Chars_Swd.ixx
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars_base.ixx(3,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars_base.ixx(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-  gameTile.ixx
   Entity.ixx
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars_Swd.ixx(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars_Swd.ixx(3,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameTile.ixx(3,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameTile.ixx(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Entity.ixx(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Entity.ixx(3,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Monsters_base.ixx(4,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Monsters_base.ixx(4,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Monsters.ixx
   gameMap.ixx
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(3,10): fatal  error C1083: Cannot open include file: 'SFML/Window.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(3,10): error C1083: Cannot open include file: 'SFML/Window.hpp': No such file or directory
+  Arena.ixx
+  Armour.ixx
+  gameTile.ixx
+  Chars_Mag.ixx
+  Chars_Swd.ixx
+  Monsters_base.ixx
   Monsters_boss.ixx
   Monsters_land.ixx
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Monsters_boss.ixx(3,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Monsters_boss.ixx(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Monsters_land.ixx(3,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Monsters_land.ixx(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(8,10): fatal  error C1083: Cannot open include file: 'SFML/Window.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(8,10): error C1083: Cannot open include file: 'SFML/Window.hpp': No such file or directory
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Cannot read Module Dependencies file x64\Debug\Arena.ixx.module.json: Expecting element 'root' from namespace ''.. Encountered 'None'  with name '', namespace ''.  The build order might be incorrect.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Cannot read Module Dependencies file x64\Debug\Chars_Arc.ixx.module.json: Expecting element 'root' from namespace ''.. Encountered 'None'  with name '', namespace ''.  The build order might be incorrect.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Cannot read Module Dependencies file x64\Debug\Chars_base.ixx.module.json: Expecting element 'root' from namespace ''.. Encountered 'None'  with name '', namespace ''.  The build order might be incorrect.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Cannot read Module Dependencies file x64\Debug\Chars_Mag.ixx.module.json: Expecting element 'root' from namespace ''.. Encountered 'None'  with name '', namespace ''.  The build order might be incorrect.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Cannot read Module Dependencies file x64\Debug\Chars_Swd.ixx.module.json: Expecting element 'root' from namespace ''.. Encountered 'None'  with name '', namespace ''.  The build order might be incorrect.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Cannot read Module Dependencies file x64\Debug\Entity.ixx.module.json: Expecting element 'root' from namespace ''.. Encountered 'None'  with name '', namespace ''.  The build order might be incorrect.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Cannot read Module Dependencies file x64\Debug\gameMap.ixx.module.json: Expecting element 'root' from namespace ''.. Encountered 'None'  with name '', namespace ''.  The build order might be incorrect.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Cannot read Module Dependencies file x64\Debug\gameTile.ixx.module.json: Expecting element 'root' from namespace ''.. Encountered 'None'  with name '', namespace ''.  The build order might be incorrect.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Cannot read Module Dependencies file x64\Debug\Monsters_base.ixx.module.json: Expecting element 'root' from namespace ''.. Encountered 'None'  with name '', namespace ''.  The build order might be incorrect.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Cannot read Module Dependencies file x64\Debug\Monsters_boss.ixx.module.json: Expecting element 'root' from namespace ''.. Encountered 'None'  with name '', namespace ''.  The build order might be incorrect.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(503,5): warning MSB8074: Cannot read Module Dependencies file x64\Debug\Monsters_land.ixx.module.json: Expecting element 'root' from namespace ''.. Encountered 'None'  with name '', namespace ''.  The build order might be incorrect.
-  iostream
+  Monsters_sea.ixx
+  Monsters_sky.ixx
+  UserInterface.ixx
+  Player.ixx
+  Skill.ixx
+  Weapon.ixx
   string
-  string
-  fstream
-c1xx : error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\string' did not evaluate to a header unit
-c1xx : fatal  error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\string': No such file or directory
-c1xx : error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\fstream' did not evaluate to a header unit
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\fstream(1,1): error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\fstream' did not evaluate to a header unit
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/fstream')
-  
-c1xx : fatal  error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\fstream': No such file or directory
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\fstream(1,1): error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\fstream': No such file or directory
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/fstream')
-  
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\string(1,1): error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\string' did not evaluate to a header unit
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/string')
-  
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\string(1,1): error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\string': No such file or directory
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/string')
-  
+  ranges
+  vector
   concepts
-c1xx : error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\concepts' did not evaluate to a header unit
-c1xx : fatal  error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\concepts': No such file or directory
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\concepts(1,1): error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\concepts' did not evaluate to a header unit
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/concepts')
-  
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\concepts(1,1): error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\concepts': No such file or directory
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/concepts')
-  
   iostream
-  sstream
-c1xx : error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\iostream' did not evaluate to a header unit
-c1xx : fatal  error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\iostream': No such file or directory
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\iostream(1,1): error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\iostream' did not evaluate to a header unit
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/iostream')
-  
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\iostream(1,1): error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\iostream': No such file or directory
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/iostream')
-  
   filesystem
-c1xx : error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\sstream' did not evaluate to a header unit
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\sstream(1,1): error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\sstream' did not evaluate to a header unit
-c1xx : fatal  error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\sstream': No such file or directory
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/sstream')
-  
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\sstream(1,1): error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\sstream': No such file or directory
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/sstream')
-  
-c1xx : error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem' did not evaluate to a header unit
-c1xx : fatal  error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem': No such file or directory
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem(1,1): error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem' did not evaluate to a header unit
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/filesystem')
-  
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem(1,1): error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem': No such file or directory
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/filesystem')
-  
+  sstream
+  fstream
   Compiling...
-  Chars.ixx
-  string
-  string
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\string(1,1): error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\string' did not evaluate to a header unit
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/string')
-  
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\string(1,1): error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\string': No such file or directory
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/string')
-  
-  iostream
-  iostream
-  concepts
-  Chars_Arc.ixx
   sstream
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars.ixx(4,20): error C7621: module partition 'base' for module unit 'Chars' was not found
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars.ixx(5,25): error C7621: module partition 'Swordsman' for module unit 'Chars' was not found
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars.ixx(6,22): error C7621: module partition 'Archer' for module unit 'Chars' was not found
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars.ixx(7,20): error C7621: module partition 'Mage' for module unit 'Chars' was not found
-  Arena.ixx
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\concepts(1,1): error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\concepts' did not evaluate to a header unit
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\iostream(1,1): error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\iostream' did not evaluate to a header unit
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/iostream')
-  
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/concepts')
-  
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\iostream(1,1): error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\iostream': No such file or directory
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\concepts(1,1): error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\concepts': No such file or directory
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/iostream')
-  
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/concepts')
-  
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\sstream(1,1): error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\sstream' did not evaluate to a header unit
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/sstream')
-  
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\sstream(1,1): error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\sstream': No such file or directory
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/sstream')
-  
+  Entity.ixx
   filesystem
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem(1,1): error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem' did not evaluate to a header unit
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/filesystem')
-  
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem(1,1): error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem': No such file or directory
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/filesystem')
-  
-  Chars_base.ixx
   fstream
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars_Arc.ixx(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\fstream(1,1): error C7613: input 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\fstream' did not evaluate to a header unit
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/fstream')
+  string
+  iostream
+  vector
+  gameTile.ixx
+  concepts
+  ranges
+  Weapon.ixx
+  gameMap.ixx
+  Monsters_base.ixx
+  Skill.ixx
+  Armour.ixx
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         ]
+  (compiling source file 'gameMap.ixx')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56):
+      the template instantiation context (the oldest one first) is
+          C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(77,37):
+          see reference to function template instantiation 'std::unique_ptr<gameTile,std::default_delete<gameTile>> std::make_unique<gameTile,const char(&)[16],int,int,bool,bool,0>(const char (&)[16],int &&,int &&,bool &&,bool &&)' being compiled
   
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\fstream(1,1): error C1083: Cannot open source file: 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\fstream': No such file or directory
-  (compiling source file '../../../../../../../../Program%20Files/Microsoft%20Visual%20Studio/2022/Community/VC/Tools/MSVC/14.40.33807/include/fstream')
+  Monsters_land.ixx
+  Monsters_sky.ixx
+  Monsters_sea.ixx
+  Monsters_boss.ixx
+  Chars_base.ixx
+  Monsters.ixx
+  Chars_Swd.ixx
+  Chars_Arc.ixx
+  Chars_Mag.ixx
+  Chars.ixx
+  Player.ixx
+  Arena.ixx
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(724,16): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(726,16): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(728,16): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(741,20): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  UserInterface.ixx
+  functions.cpp
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         ]
+  Main.cpp
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Main.cpp(33,54): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Main.cpp(33,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56):
+      the template instantiation context (the oldest one first) is
+          C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(77,37):
+          see reference to function template instantiation 'std::unique_ptr<gameTile,std::default_delete<gameTile>> std::make_unique<gameTile,const char(&)[16],int,int,bool,bool,0>(const char (&)[16],int &&,int &&,bool &&,bool &&)' being compiled
   
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Chars_base.ixx(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(8,10): error C1083: Cannot open include file: 'SFML/Window.hpp': No such file or directory
+  Generating Code...
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Player.ixx(46,1): warning C4715: 'Player::getCharacter': not all control paths return a value
+  Arena_Battle.vcxproj -> C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\x64\Debug\Arena_Battle.exe

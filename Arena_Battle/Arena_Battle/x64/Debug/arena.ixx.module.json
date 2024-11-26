@@ -1,0 +1,47 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Arena.ixx.obj",
+            "outputs": [
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\x64\\Debug\\Arena.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Arena",
+                    "source-path": "c:\\users\\cccsk\\onedrive\\desktop\\my projects\\projects\\arena_battle\\arena_battle\\arena.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Player"
+                },
+                {
+                    "logical-name": "Chars"
+                },
+                {
+                    "logical-name": "Monsters"
+                },
+                {
+                    "logical-name": "Entity"
+                },
+                {
+                    "logical-name": "gameMap"
+                },
+                {
+                    "logical-name": "Skill"
+                },
+                {
+                    "logical-name": "Weapon"
+                },
+                {
+                    "logical-name": "Armour"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\my projects\\projects\\arena_battle\\arena_battle\\gamemap.ixx",
+        "ProvidedModule": "gameMap",
+        "ImportedModules": [
+            "gameMap:gameTile"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

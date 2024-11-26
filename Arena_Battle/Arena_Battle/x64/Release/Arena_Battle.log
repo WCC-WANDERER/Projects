@@ -1,109 +1,202 @@
 ﻿  Scanning sources for module dependencies...
-  Monsters_boss.ixx
+  Armour.ixx
+  Chars_Mag.ixx
+  Chars_Arc.ixx
   Chars_base.ixx
   Monsters_base.ixx
-  Chars_Swd.ixx
-  Chars_Mag.ixx
-  Chars.ixx
-  functions.ixx
   gameMap.ixx
-  Entity.ixx
+  Chars_Swd.ixx
   gameTile.ixx
-  Chars_Arc.ixx
+  Chars.ixx
+  Arena.ixx
   Monsters.ixx
+  Entity.ixx
   Monsters_land.ixx
+  Player.ixx
+  Monsters_boss.ixx
   Monsters_sea.ixx
   Monsters_sky.ixx
-  Player.ixx
-  SkillandStuff.ixx
+  Skill.ixx
+  UserInterface.ixx
+  Weapon.ixx
   ranges
-  filesystem
+  string
+  fstream
   concepts
   vector
-  fstream
-  sstream
-  string
-  memory
+  filesystem
   iostream
+  sstream
   Compiling...
-  ranges
-  vector
-  concepts
-  fstream
-  memory
-  sstream
-  Entity.ixx
-  filesystem
   string
   iostream
+  filesystem
+  ranges
+  Entity.ixx
   gameTile.ixx
+  fstream
+  concepts
+  vector
+  sstream
   gameMap.ixx
   Monsters_base.ixx
-  SkillandStuff.ixx
-  Monsters_land.ixx
+  Weapon.ixx
+  Armour.ixx
+  Skill.ixx
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,84): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(389,56): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,82): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(390,54): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,76): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(408,52): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,67): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(409,47): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         ]
+  (compiling source file 'gameMap.ixx')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56):
+      the template instantiation context (the oldest one first) is
+          C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(77,37):
+          see reference to function template instantiation 'std::unique_ptr<gameTile,std::default_delete<gameTile>> std::make_unique<gameTile,const char(&)[16],int,int,bool,bool,0>(const char (&)[16],int &&,int &&,bool &&,bool &&)' being compiled
+  
+  Chars_base.ixx
   Monsters_boss.ixx
+  Monsters_land.ixx
   Monsters_sky.ixx
   Monsters_sea.ixx
   Monsters.ixx
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\memory(3595,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\memory(3595,56): warning C4244:         with
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\memory(3595,56): warning C4244:         [
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\memory(3595,56): warning C4244:             _Ty=int
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\memory(3595,56): warning C4244:         ]
-  Chars_base.ixx
-  functions.ixx
   Chars_Arc.ixx
-  Chars_Swd.ixx
   Chars_Mag.ixx
+  Chars_Swd.ixx
   Chars.ixx
   Player.ixx
+  Arena.ixx
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(724,16): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(726,16): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(728,16): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Arena.ixx(741,20): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  UserInterface.ixx
   functions.cpp
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,83): warning C4244:         with
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,83): warning C4244:         [
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,83): warning C4244:             T=unsigned int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,83): warning C4244:         ]
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,83): warning C4244:         and
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,83): warning C4244:         [
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,83): warning C4244:             T=float
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,83): warning C4244:         ]
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,55): warning C4244:         with
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,55): warning C4244:         [
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,55): warning C4244:             T=unsigned int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,55): warning C4244:         ]
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,55): warning C4244:         and
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,55): warning C4244:         [
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,55): warning C4244:             T=float
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(91,55): warning C4244:         ]
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,81): warning C4244:         with
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,81): warning C4244:         [
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,81): warning C4244:             T=unsigned int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,81): warning C4244:         ]
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,81): warning C4244:         and
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,81): warning C4244:         [
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,81): warning C4244:             T=float
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,81): warning C4244:         ]
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,53): warning C4244:         with
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,53): warning C4244:         [
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,53): warning C4244:             T=unsigned int
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,53): warning C4244:         ]
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,53): warning C4244:         and
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,53): warning C4244:         [
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,53): warning C4244:             T=float
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\functions.cpp(92,53): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,83): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(104,55): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,81): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         with
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:             T=unsigned int
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         and
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         [
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:             T=float
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\functions.cpp(105,53): warning C4244:         ]
   Main.cpp
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Main.cpp(30,54): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\Arena_Battle\Main.cpp(30,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\memory(3595,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\memory(3595,56): warning C4244:         with
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\memory(3595,56): warning C4244:         [
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\memory(3595,56): warning C4244:             _Ty=int
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\memory(3595,56): warning C4244:         ]
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Main.cpp(33,54): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Main.cpp(33,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56): warning C4244:         ]
+  (compiling source file 'Main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3597,56):
+      the template instantiation context (the oldest one first) is
+          C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\gameMap.ixx(77,37):
+          see reference to function template instantiation 'std::unique_ptr<gameTile,std::default_delete<gameTile>> std::make_unique<gameTile,const char(&)[16],int,int,bool,bool,0>(const char (&)[16],int &&,int &&,bool &&,bool &&)' being compiled
+  
   Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 441 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\Arena_Battle\Player.ixx(55): warning C4715: 'Player::getCharacter': not all control paths return a value
+  All 2098 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  Arena_Battle.vcxproj -> C:\Users\cccsk\OneDrive\Desktop\CP4\008c2369-gr13-repo\Project\Arena_Battle\x64\Release\Arena_Battle.exe
+  Arena_Battle.vcxproj -> C:\Users\cccsk\OneDrive\Desktop\My Projects\Projects\Arena_Battle\x64\Release\Arena_Battle.exe

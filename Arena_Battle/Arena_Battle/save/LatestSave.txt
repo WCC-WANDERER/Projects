@@ -1,19 +1,10 @@
-Stage 2
-swordsman 70 70 190
-Skill swordsman Ice Slash 20 0 0
-Skill swordsman Defence Buff 0 50 0
-Skill swordsman Hp Recovery 0 0 50
-Weapon swordsman Legendary Sword 40
-Armour swordsman Legendary Chainmail 20 40
-archer 100 56 152
-Skill archer Magic Arrow 30 0 0
-Skill archer Attack Buff 40 0 0
-Skill archer Hp Recovery 0 0 40
-Weapon archer Legendary Bow 60
-Armour archer Legendary LeatherArmour 16 32
-mage 130 42 124
-Skill mage Fire Ball 40 0 0
-Skill mage Attack Buff 50 0 0
-Skill mage Hp Recovery 0 0 30
-Weapon mage Legendary Wand 80
-Armour mage Legendary Robe 12 24
+Stage 0
+w 30 50 150
+Weapon   0
+Armour   0 0
+s 40 40 120
+Weapon   0
+Armour   0 0
+d 50 30 100
+Weapon   0
+Armour   0 0

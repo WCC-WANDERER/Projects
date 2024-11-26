@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\cccsk\\onedrive\\desktop\\my projects\\projects\\arena_battle\\arena_battle\\chars_swd.ixx",
+        "ProvidedModule": "Chars:Swordsman",
+        "ImportedModules": [
+            "Chars:base"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
