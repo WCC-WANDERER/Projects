@@ -7,92 +7,32 @@
       "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Arena.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Arena.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Monsters.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\gameMap.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\gameMap.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\gameTile.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\gameTile.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Entity.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Entity.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Player.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Player.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Arena.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Arena.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\UserInterface.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\UserInterface.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\entity.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\entity.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_base.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Monsters_base.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars_base.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Chars_base.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Skill.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Skill.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Weapon.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Weapon.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Armour.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Armour.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars_Swd.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Chars_Swd.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_Land.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Monsters_Land.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_boss.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Monsters_boss.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_sea.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Monsters_sea.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars_Mag.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Chars_Mag.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars_Arc.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Chars_Arc.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Chars.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Monsters.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_sky.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\Monsters_sky.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\gameTile.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2EF5E052-A169-4EF1-8AC1-4968742F1B8C}|Arena_Battle\\Arena_Battle.vcxproj|solutionrelative:Arena_Battle\\gameTile.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -112,35 +52,70 @@
               "RelativeDocumentMoniker": "Arena_Battle\\Main.cpp",
               "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Main.cpp",
               "RelativeToolTip": "Arena_Battle\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-15T13:21:29.488Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-11-26T18:40:01.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Player.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Player.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Player.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Player.ixx",
-              "RelativeToolTip": "Arena_Battle\\Player.ixx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T15:48:19.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "UserInterface.ixx",
               "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\UserInterface.ixx",
               "RelativeDocumentMoniker": "Arena_Battle\\UserInterface.ixx",
               "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\UserInterface.ixx",
               "RelativeToolTip": "Arena_Battle\\UserInterface.ixx",
-              "ViewState": "AQIAACwAAAAAAAAAAAAowCkBAAAmAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-12T22:16:20.475Z"
+              "WhenOpened": "2024-11-26T18:40:32.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arena.ixx",
+              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Arena.ixx",
+              "RelativeDocumentMoniker": "Arena_Battle\\Arena.ixx",
+              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Arena.ixx",
+              "RelativeToolTip": "Arena_Battle\\Arena.ixx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-11-26T18:40:09.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.ixx",
+              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Player.ixx",
+              "RelativeDocumentMoniker": "Arena_Battle\\Player.ixx",
+              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Player.ixx",
+              "RelativeToolTip": "Arena_Battle\\Player.ixx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-11-26T18:40:34.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entity.ixx",
+              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Entity.ixx",
+              "RelativeDocumentMoniker": "Arena_Battle\\Entity.ixx",
+              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Entity.ixx",
+              "RelativeToolTip": "Arena_Battle\\Entity.ixx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-11-26T18:40:41.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gameTile.ixx",
+              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\gameTile.ixx",
+              "RelativeDocumentMoniker": "Arena_Battle\\gameTile.ixx",
+              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\gameTile.ixx",
+              "RelativeToolTip": "Arena_Battle\\gameTile.ixx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-11-26T18:40:40.481Z"
             },
             {
               "$type": "Document",
@@ -150,238 +125,21 @@
               "RelativeDocumentMoniker": "Arena_Battle\\gameMap.ixx",
               "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\gameMap.ixx",
               "RelativeToolTip": "Arena_Battle\\gameMap.ixx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-09T01:25:22.887Z"
+              "WhenOpened": "2024-11-26T18:40:39.54Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Arena.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Arena.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Arena.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Arena.ixx",
-              "RelativeToolTip": "Arena_Battle\\Arena.ixx",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-12T22:14:43.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Entity.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Entity.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Entity.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Entity.ixx",
-              "RelativeToolTip": "Arena_Battle\\Entity.ixx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-12T01:08:14.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "gameTile.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\gameTile.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\gameTile.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\gameTile.ixx",
-              "RelativeToolTip": "Arena_Battle\\gameTile.ixx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-09T01:26:27.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Monsters_boss.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_boss.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Monsters_boss.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_boss.ixx",
-              "RelativeToolTip": "Arena_Battle\\Monsters_boss.ixx",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T23:22:19.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Monsters_sea.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_sea.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Monsters_sea.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_sea.ixx",
-              "RelativeToolTip": "Arena_Battle\\Monsters_sea.ixx",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T14:54:03.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Monsters_sky.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_sky.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Monsters_sky.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_sky.ixx",
-              "RelativeToolTip": "Arena_Battle\\Monsters_sky.ixx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T14:52:53.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Monsters_land.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_land.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Monsters_land.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_land.ixx",
-              "RelativeToolTip": "Arena_Battle\\Monsters_land.ixx",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T14:47:08.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Monsters_base.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_base.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Monsters_base.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters_base.ixx",
-              "RelativeToolTip": "Arena_Battle\\Monsters_base.ixx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T14:41:40.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Chars_base.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars_base.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Chars_base.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars_base.ixx",
-              "RelativeToolTip": "Arena_Battle\\Chars_base.ixx",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAH4AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T14:02:00.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Chars_Swd.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars_Swd.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Chars_Swd.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars_Swd.ixx",
-              "RelativeToolTip": "Arena_Battle\\Chars_Swd.ixx",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T14:05:21.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Chars_Arc.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars_Arc.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Chars_Arc.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars_Arc.ixx",
-              "RelativeToolTip": "Arena_Battle\\Chars_Arc.ixx",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T14:10:17.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Chars_Mag.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars_Mag.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Chars_Mag.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars_Mag.ixx",
-              "RelativeToolTip": "Arena_Battle\\Chars_Mag.ixx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T14:11:19.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Chars.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Chars.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Chars.ixx",
-              "RelativeToolTip": "Arena_Battle\\Chars.ixx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T13:52:50.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "Monsters.ixx",
               "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters.ixx",
               "RelativeDocumentMoniker": "Arena_Battle\\Monsters.ixx",
               "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Monsters.ixx",
               "RelativeToolTip": "Arena_Battle\\Monsters.ixx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T13:55:58.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "functions.h",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\functions.h",
-              "RelativeDocumentMoniker": "Arena_Battle\\functions.h",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\functions.h",
-              "RelativeToolTip": "Arena_Battle\\functions.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-09T09:24:39.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "functions.cpp",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\functions.cpp",
-              "RelativeDocumentMoniker": "Arena_Battle\\functions.cpp",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\functions.cpp",
-              "RelativeToolTip": "Arena_Battle\\functions.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-09T09:24:51.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Skill.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Skill.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Skill.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Skill.ixx",
-              "RelativeToolTip": "Arena_Battle\\Skill.ixx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-04T13:56:56.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Weapon.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Weapon.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Weapon.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Weapon.ixx",
-              "RelativeToolTip": "Arena_Battle\\Weapon.ixx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-21T20:11:03.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Armour.ixx",
-              "DocumentMoniker": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Armour.ixx",
-              "RelativeDocumentMoniker": "Arena_Battle\\Armour.ixx",
-              "ToolTip": "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\Armour.ixx",
-              "RelativeToolTip": "Arena_Battle\\Armour.ixx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
-              "WhenOpened": "2024-06-21T20:12:05.562Z"
+              "WhenOpened": "2024-11-26T18:40:37.67Z"
             }
           ]
         }

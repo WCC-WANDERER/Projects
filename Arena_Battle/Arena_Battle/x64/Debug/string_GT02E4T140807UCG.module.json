@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\string_GT02E4T140807UCG.obj",
+            "outputs": [
+                "C:\\Users\\cccsk\\OneDrive\\Desktop\\My Projects\\Projects\\Arena_Battle\\Arena_Battle\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\string_GT02E4T140807UCG.module.json",
+                "x64\\Debug\\string_GT02E4T140807UCG.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\string",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.41.34120\\include\\string",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
