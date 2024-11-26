@@ -1,0 +1,10 @@
+pl\polsl\lab\view\package-info.class
+pl\polsl\lab\controller\package-info.class
+pl\polsl\lab\model\package-info.class
+pl\polsl\lab\controller\ArabicRomanConverter$1.class
+pl\polsl\lab\model\DataSet.class
+pl\polsl\lab\model\InputOutputException.class
+pl\polsl\lab\model\DataHistory.class
+pl\polsl\lab\model\NumConversion.class
+pl\polsl\lab\controller\ArabicRomanConverter.class
+pl\polsl\lab\view\GraphicalUserInterface.class

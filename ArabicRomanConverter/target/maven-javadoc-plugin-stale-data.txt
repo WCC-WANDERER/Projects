@@ -1,0 +1,61 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/SuperStudent-EN/Desktop/Chow.WingCheung.ex3.final/ArabicRomanConverter/target/classes;C:/Users/SuperStudent-EN/Desktop/Chow.WingCheung.ex3.final/ArabicRomanConverter/target/test-classes;C:/Users/SuperStudent-EN/.m2/repository/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar;C:/Users/SuperStudent-EN/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar;C:/Users/SuperStudent-EN/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar;C:/Users/SuperStudent-EN/.m2/repository/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2.jar;C:/Users/SuperStudent-EN/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar;C:/Users/SuperStudent-EN/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.2/junit-jupiter-params-5.10.2.jar;C:/Users/SuperStudent-EN/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.jar;C:/Users/SuperStudent-EN/.m2/repository/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2.jar'
+-encoding
+'UTF-8'
+-private
+-source
+'21'
+-sourcepath
+'C:/Users/SuperStudent-EN/Desktop/Chow.WingCheung.ex3.final/ArabicRomanConverter/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/SuperStudent-EN/Desktop/Chow.WingCheung.ex3.final/ArabicRomanConverter/target/reports/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ArabicRomanConverter 1.0 Test API'
+-link
+'../apidocs'
+-use
+-version
+-windowtitle
+'ArabicRomanConverter 1.0 Test API'
+pl.polsl.lab.model
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\classes = 1732182888641
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\test-classes = 1732182889196
+C:\Users\SuperStudent-EN\.m2\repository\org\projectlombok\lombok\1.18.34\lombok-1.18.34.jar = 1730967370822
+C:\Users\SuperStudent-EN\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar = 1732173296298
+C:\Users\SuperStudent-EN\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar = 1732173296381
+C:\Users\SuperStudent-EN\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar = 1732173296412
+C:\Users\SuperStudent-EN\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar = 1732173296328
+C:\Users\SuperStudent-EN\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar = 1732173296468
+C:\Users\SuperStudent-EN\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar = 1732173296446
+C:\Users\SuperStudent-EN\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar = 1732173296363
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\src\test\java = 1732174568958
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\allclasses-index.html = 1732182898266
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\allpackages-index.html = 1732182898269
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\copy.svg = 1732182898299
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\element-list = 1732182898231
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\help-doc.html = 1732182898293
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\index-all.html = 1732182898285
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\index.html = 1732182898289
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\link.svg = 1732182898300
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\member-search-index.js = 1732182898274
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\module-search-index.js = 1732182898270
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\overview-tree.html = 1732182898257
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\package-search-index.js = 1732182898271
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\script.js = 1732182898297
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\search-page.js = 1732182898305
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\search.html = 1732182898287
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\search.js = 1732182898303
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\stylesheet.css = 1732182898295
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\tag-search-index.js = 1732182898275
+C:\Users\SuperStudent-EN\Desktop\Chow.WingCheung.ex3.final\ArabicRomanConverter\target\reports\testapidocs\type-search-index.js = 1732182898273
